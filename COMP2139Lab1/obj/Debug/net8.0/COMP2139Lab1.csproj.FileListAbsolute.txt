@@ -28,3 +28,4 @@ C:\Users\farha\RiderProjects\COMP2139Lab1\COMP2139Lab1\obj\Debug\net8.0\refint\C
 C:\Users\farha\RiderProjects\COMP2139Lab1\COMP2139Lab1\obj\Debug\net8.0\COMP2139Lab1.pdb
 C:\Users\farha\RiderProjects\COMP2139Lab1\COMP2139Lab1\obj\Debug\net8.0\COMP2139Lab1.genruntimeconfig.cache
 C:\Users\farha\RiderProjects\COMP2139Lab1\COMP2139Lab1\obj\Debug\net8.0\ref\COMP2139Lab1.dll
+C:\Users\farha\RiderProjects\COMP2139Lab1\COMP2139Lab1\obj\Debug\net8.0\COMP2139Lab1.sourcelink.json
