@@ -20,10 +20,6 @@ public class HomeController : Controller
         ViewBag.CourseSection = "CRN: 50262";
         return View();
     }
-    public IActionResult Privacy()
-    {
-        return View();
-    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
